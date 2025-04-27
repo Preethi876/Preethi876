@@ -1,5 +1,6 @@
 Hi, I'm Preethi!
 👩‍💻 About Me
+
 I'm an aspiring Robotics and Artificial Intelligence (AI) enthusiast, passionate about building intelligent systems that can transform the future. Right now, I'm focused on learning and experimenting with cutting-edge technologies in robotics, machine learning, and automation. 🚀
 
 📚 My Learning Journey
